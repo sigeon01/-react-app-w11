@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/sigeon01/-react-app-w11/static/css/main.2bcbd4a9.css",
+    "main.js": "/sigeon01/-react-app-w11/static/js/main.52218682.js",
+    "static/media/Steam.jpg": "/sigeon01/-react-app-w11/static/media/Steam.fb3337d9b050d8de6c91.jpg",
+    "static/media/Blender.jpg": "/sigeon01/-react-app-w11/static/media/Blender.21e809b6420cdb228dc7.jpg",
+    "static/media/LMMS.png": "/sigeon01/-react-app-w11/static/media/LMMS.26cb975571380b7eb66f.png",
+    "static/media/Unity.jpeg": "/sigeon01/-react-app-w11/static/media/Unity.7923e5ddbf2bbe587cad.jpeg",
+    "static/media/Firealpaca.jpg": "/sigeon01/-react-app-w11/static/media/Firealpaca.d6e19b2f6658bbb4415e.jpg",
+    "index.html": "/sigeon01/-react-app-w11/index.html",
+    "main.2bcbd4a9.css.map": "/sigeon01/-react-app-w11/static/css/main.2bcbd4a9.css.map",
+    "main.52218682.js.map": "/sigeon01/-react-app-w11/static/js/main.52218682.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bcbd4a9.css",
+    "static/js/main.52218682.js"
+  ]
+}
